@@ -1,4 +1,4 @@
-# Press Blockchain — Monorepo
+# Press Blockchain B1
 
 Fully wired Hardhat contracts + WordPress plugins + Bot apps scaffolding.
 Prefilled for **Sepolia**.
